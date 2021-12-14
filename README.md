@@ -79,6 +79,7 @@ These applications do not require any form of dependencies for it to work. Essen
 * [BioSPPy](https://github.com/PIA-Group/BioSPPy)
 * [Timeflux](https://timeflux.io)
 * [EEGsynth](https://github.com/eegsynth/eegsynth)
+* [NeuroPrime](https://github.com/nmc-costa/neuroprime)
 
 ### Android Toolboxes
 
